@@ -1,7 +1,4 @@
-# 1️⃣ Navigate to the project folder
-cd IP-RajdeepSinghGolan
-
-# 2️⃣ Create and activate a virtual environment (optional but recommended)
+# 1️⃣ Create and activate a virtual environment (optional but recommended)
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate  # Windows
